@@ -1,7 +1,0 @@
-Hi I am vikrant and i am teaching git 
-This is version 1
-
-
-
-Hi I am doing good
-thsi is version 2
